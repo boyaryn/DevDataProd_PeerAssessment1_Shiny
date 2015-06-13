@@ -1,0 +1,1002 @@
+Year;Rank;Institution;Location;Score
+2010-2011;1;Harvard University;United States;96.1
+2010-2011;2;California Institute of Technology (Caltech);United States;96.0
+2010-2011;3;Massachusetts Institute of Technology (MIT);United States;95.6
+2010-2011;4;Stanford University;United States;94.3
+2010-2011;5;Princeton University;United States;94.2
+2010-2011;6;University of Cambridge;United Kingdom;91.2
+2010-2011;6;University of Oxford;United Kingdom;91.2
+2010-2011;8;University of California, Berkeley;United States;91.1
+2010-2011;9;Imperial College London;United Kingdom;90.6
+2010-2011;10;Yale University;United States;89.5
+2010-2011;11;University of California, Los Angeles (UCLA);United States;87.7
+2010-2011;12;University of Chicago;United States;86.9
+2010-2011;13;Johns Hopkins University;United States;86.4
+2010-2011;14;Cornell University;United States;83.9
+2010-2011;15;ETH Zürich – Swiss Federal Institute of Technology Zürich;Switzerland;83.4
+2010-2011;15;University of Michigan;United States;83.4
+2010-2011;17;University of Toronto;Canada;82.0
+2010-2011;18;Columbia University;United States;81.0
+2010-2011;19;University of Pennsylvania;United States;79.5
+2010-2011;20;Carnegie Mellon University;United States;79.3
+2010-2011;21;The University of Hong Kong;Hong Kong;79.2
+2010-2011;22;University College London (UCL);United Kingdom;78.4
+2010-2011;23;University of Washington;United States;78.0
+2010-2011;24;Duke University;United States;76.5
+2010-2011;25;Northwestern University;United States;75.9
+2010-2011;26;The University of Tokyo;Japan;75.6
+2010-2011;27;Georgia Institute of Technology (Georgia Tech);United States;75.3
+2010-2011;28;Pohang University of Science and Technology (Postech);Republic of Korea;75.1
+2010-2011;29;University of California, Santa Barbara;United States;75.0
+2010-2011;30;University of British Columbia;Canada;73.8
+2010-2011;30;University of North Carolina at Chapel Hill;United States;73.8
+2010-2011;32;University of California, San Diego;United States;73.2
+2010-2011;33;University of Illinois at Urbana-Champaign;United States;73.0
+2010-2011;34;National University of Singapore (NUS);Singapore;72.9
+2010-2011;35;McGill University;Canada;71.7
+2010-2011;36;University of Melbourne;Australia;71.0
+2010-2011;37;Peking University;China;70.7
+2010-2011;38;Washington University in St Louis;United States;69.9
+2010-2011;39;École Polytechnique;France;69.5
+2010-2011;40;University of Edinburgh;United Kingdom;69.2
+2010-2011;41;Hong Kong University of Science and Technology;Hong Kong;69.0
+2010-2011;42;École Normale Supérieure;France;68.6
+2010-2011;43;Australian National University;Australia;67.0
+2010-2011;43;Georg-August-Universität Göttingen;Germany;67.0
+2010-2011;43;Karolinska Institute;Sweden;67.0
+2010-2011;43;University of Wisconsin;United States;67.0
+2010-2011;47;Rice University;United States;66.9
+2010-2011;48;École Polytechnique Fédérale de Lausanne;Switzerland;66.5
+2010-2011;49;University of California, Irvine;United States;66.0
+2010-2011;49;University of Science and Technology of China;China;66.0
+2010-2011;51;Vanderbilt University;United States;65.9
+2010-2011;52;University of Minnesota;United States;65.6
+2010-2011;53;Tufts University;United States;65.2
+2010-2011;54;University of California, Davis;United States;65.0
+2010-2011;55;Brown University;United States;64.9
+2010-2011;56;University of Massachusetts;United States;64.7
+2010-2011;57;Kyoto University;Japan;64.6
+2010-2011;58;Tsinghua University;China;64.2
+2010-2011;59;Boston University;United States;64.0
+2010-2011;60;New York University (NYU);United States;63.9
+2010-2011;61;Emory University;United States;63.0
+2010-2011;61;Ludwig Maximilian University of Munich;Germany;63.0
+2010-2011;63;University of Notre Dame;United States;62.8
+2010-2011;64;University of Pittsburgh;United States;62.7
+2010-2011;65;Case Western Reserve University;United States;62.2
+2010-2011;66;Ohio State University;United States;62.1
+2010-2011;67;University of Colorado Boulder;United States;61.6
+2010-2011;68;University of Bristol;United Kingdom;61.4
+2010-2011;68;University of California, Santa Cruz;United States;61.4
+2010-2011;68;Yeshiva University;United States;61.4
+2010-2011;71;University of Sydney;Australia;61.2
+2010-2011;72;University of Virginia;United States;61.1
+2010-2011;73;University of Adelaide;Australia;60.7
+2010-2011;73;University of Southern California;United States;60.7
+2010-2011;75;William & Mary;United States;60.4
+2010-2011;76;Trinity College Dublin;Republic of Ireland;60.3
+2010-2011;77;King's College London;United Kingdom;59.7
+2010-2011;78;Stony Brook University;United States;59.6
+2010-2011;79;Korea Advanced Institute of Science and Technology (KAIST);Republic of Korea;59.5
+2010-2011;79;University of Sussex;United Kingdom;59.5
+2010-2011;81;University of Queensland;Australia;59.1
+2010-2011;81;University of York;United Kingdom;59.1
+2010-2011;83;Heidelberg University;Germany;59.0
+2010-2011;83;University of Utah;United States;59.0
+2010-2011;85;Durham University;United Kingdom;58.9
+2010-2011;86;London School of Economics and Political Science (LSE);United Kingdom;58.3
+2010-2011;87;University of Manchester;United Kingdom;58.0
+2010-2011;88;Royal Holloway, University of London;United Kingdom;57.9
+2010-2011;89;Lund University;Sweden;57.8
+2010-2011;90;University of Southampton;United Kingdom;57.7
+2010-2011;90;University of Zürich;Switzerland;57.7
+2010-2011;90;Wake Forest University;United States;57.7
+2010-2011;93;McMaster University;Canada;57.6
+2010-2011;94;University College Dublin;Republic of Ireland;57.5
+2010-2011;95;George Washington University;United States;57.3
+2010-2011;95;Universität Basel;Switzerland;57.3
+2010-2011;95;University of Arizona;United States;57.3
+2010-2011;98;University of Maryland, College Park;United States;57.2
+2010-2011;99;Dartmouth College;United States;57.1
+2010-2011;100;École Normale Supérieure de Lyon;France;57.0
+2010-2011;101;Technical University of Munich;Germany;56.9
+2010-2011;102;University of Helsinki;Finland;56.6
+2010-2011;103;University of St Andrews;United Kingdom;56.5
+2010-2011;104;Rensselaer Polytechnic Institute;United States;56.4
+2010-2011;105;Rutgers, The State University of New Jersey;United States;56.3
+2010-2011;106;Purdue University;United States;56.2
+2010-2011;107;National Tsing Hua University;Taiwan;56.1
+2010-2011;107;University of Cape Town;South Africa;56.1
+2010-2011;109;Pennsylvania State University;United States;56.0
+2010-2011;109;Seoul National University;Republic of Korea;56.0
+2010-2011;111;Hong Kong Baptist University;Hong Kong;55.6
+2010-2011;112;Bilkent University;Turkey;55.4
+2010-2011;112;Tokyo Institute of Technology;Japan;55.4
+2010-2011;114;Eindhoven University of Technology;Netherlands;55.3
+2010-2011;115;National Taiwan University;Taiwan;55.2
+2010-2011;115;University of Hawaii at Manoa;United States;55.2
+2010-2011;117;University of California, Riverside;United States;55.1
+2010-2011;118;University of Geneva;Switzerland;55.0
+2010-2011;119;KU Leuven;Belgium;54.8
+2010-2011;120;Nanjing University;China;54.6
+2010-2011;120;Queen Mary University of London;United Kingdom;54.6
+2010-2011;122;Michigan State University;United States;54.5
+2010-2011;122;Technical University of Denmark;Denmark;54.5
+2010-2011;124;Ghent University;Belgium;54.4
+2010-2011;124;Lancaster University;United Kingdom;54.4
+2010-2011;124;Leiden University;Netherlands;54.4
+2010-2011;127;University of Alberta;Canada;54.3
+2010-2011;128;University of Glasgow;United Kingdom;54.2
+2010-2011;129;Stockholm University;Sweden;54.0
+2010-2011;130;Osaka University;Japan;53.4
+2010-2011;130;University of Victoria;Canada;53.4
+2010-2011;132;Albert-Ludwigs-Universität Freiburg;Germany;53.3
+2010-2011;132;Tohoku University;Japan;53.3
+2010-2011;132;University of Iowa;United States;53.3
+2010-2011;135;University of Bergen;Norway;52.7
+2010-2011;136;Université de Lausanne;Switzerland;52.6
+2010-2011;137;University of Sheffield;United Kingdom;52.5
+2010-2011;138;University of Montreal;Canada;52.4
+2010-2011;139;VU University Amsterdam;Netherlands;52.3
+2010-2011;140;Pierre and Marie Curie University;France;52.2
+2010-2011;140;University of Dundee;United Kingdom;52.2
+2010-2011;142;University of Barcelona;Spain;52.1
+2010-2011;143;Utrecht University;Netherlands;52.0
+2010-2011;144;Wageningen University and Research Center;Netherlands;51.9
+2010-2011;145;University of Auckland;New Zealand;51.8
+2010-2011;145;University of Birmingham;United Kingdom;51.8
+2010-2011;147;Alexandria University;Egypt;51.6
+2010-2011;147;Uppsala University;Sweden;51.6
+2010-2011;149;The Hong Kong Polytechnic University;Hong Kong;51.4
+2010-2011;149;University of Aberdeen;United Kingdom;51.4
+2010-2011;151;Delft University of Technology;Netherlands;51.3
+2010-2011;152;Birkbeck, University of London;United Kingdom;51.2
+2010-2011;152;Newcastle University;United Kingdom;51.2
+2010-2011;152;University of New South Wales;Australia;51.2
+2010-2011;155;Pompeu Fabra University;Spain;51.1
+2010-2011;156;Indiana University;United States;51.0
+2010-2011;156;Iowa State University;United States;51.0
+2010-2011;158;Georgia Health Sciences University;United States;50.7
+2010-2011;159;Erasmus University Rotterdam;Netherlands;50.4
+2010-2011;159;University of Delaware;United States;50.4
+2010-2011;161;Arizona State University;United States;50.3
+2010-2011;161;Boston College;United States;50.3
+2010-2011;163;National Sun Yat-Sen University;Taiwan;50.2
+2010-2011;164;Georgetown University;United States;50.1
+2010-2011;165;University of Amsterdam;Netherlands;50.0
+2010-2011;165;University of Liverpool;United Kingdom;50.0
+2010-2011;167;Aarhus University;Denmark;49.9
+2010-2011;168;Universität Würzburg;Germany;49.8
+2010-2011;168;University of Leeds;United Kingdom;49.8
+2010-2011;170;University of Groningen;Netherlands;49.7
+2010-2011;171;Sun Yat-sen University;China;49.6
+2010-2011;172;Johann Wolfgang Goethe-Universität Frankfurt am Main;Germany;49.4
+2010-2011;173;Bielefeld University;Germany;49.3
+2010-2011;174;Nanyang Technological University;Singapore;49.0
+2010-2011;174;University of East Anglia;United Kingdom;49.0
+2010-2011;174;University of Nottingham;United Kingdom;49.0
+2010-2011;177;University of Copenhagen;Denmark;48.8
+2010-2011;178;Humboldt University of Berlin;Germany;48.5
+2010-2011;178;Monash University;Australia;48.5
+2010-2011;178;Universität Bonn;Germany;48.5
+2010-2011;181;National Chiao Tung University;Taiwan;48.3
+2010-2011;182;RWTH Aachen University;Germany;48.2
+2010-2011;183;Middle East Technical University;Turkey;47.7
+2010-2011;184;University of Exeter;United Kingdom;47.6
+2010-2011;185;University of Twente;Netherlands;47.5
+2010-2011;186;University of Konstanz;Germany;47.3
+2010-2011;187;Karlsruhe Institute of Technology;Germany;47.2
+2010-2011;187;University of Innsbruck;Austria;47.2
+2010-2011;189;Eberhard Karls Universität Tübingen;Germany;47.0
+2010-2011;190;Drexel University;United States;46.9
+2010-2011;190;University of Cincinnati;United States;46.9
+2010-2011;190;Yonsei University;Republic of Korea;46.9
+2010-2011;193;Dalhousie University;Canada;46.8
+2010-2011;193;KTH Royal Institute of Technology;Sweden;46.8
+2010-2011;195;University of Vienna;Austria;46.7
+2010-2011;196;Kent State University;United States;46.5
+2010-2011;197;University of Illinois at Chicago;United States;46.4
+2010-2011;197;Zhejiang University;China;46.4
+2010-2011;199;Simon Fraser University;Canada;46.2
+2010-2011;199;Swedish University of Agricultural Sciences;Sweden;46.2
+2011-2012;1;California Institute of Technology (Caltech);United States;94.8
+2011-2012;2;Harvard University;United States;93.9
+2011-2012;2;Stanford University;United States;93.9
+2011-2012;4;University of Oxford;United Kingdom;93.6
+2011-2012;5;Princeton University;United States;92.9
+2011-2012;6;University of Cambridge;United Kingdom;92.4
+2011-2012;7;Massachusetts Institute of Technology (MIT);United States;92.3
+2011-2012;8;Imperial College London;United Kingdom;90.7
+2011-2012;9;University of Chicago;United States;90.2
+2011-2012;10;University of California, Berkeley;United States;89.8
+2011-2012;11;Yale University;United States;89.1
+2011-2012;12;Columbia University;United States;87.5
+2011-2012;13;University of California, Los Angeles (UCLA);United States;87.3
+2011-2012;14;Johns Hopkins University;United States;85.8
+2011-2012;15;ETH Zürich – Swiss Federal Institute of Technology Zürich;Switzerland;85.0
+2011-2012;16;University of Pennsylvania;United States;84.9
+2011-2012;17;University College London (UCL);United Kingdom;83.2
+2011-2012;18;University of Michigan;United States;82.8
+2011-2012;19;University of Toronto;Canada;81.6
+2011-2012;20;Cornell University;United States;80.5
+2011-2012;21;Carnegie Mellon University;United States;78.4
+2011-2012;22;Duke University;United States;77.4
+2011-2012;22;University of British Columbia;Canada;77.4
+2011-2012;24;Georgia Institute of Technology (Georgia Tech);United States;77.0
+2011-2012;25;University of Washington;United States;76.5
+2011-2012;26;Northwestern University;United States;76.2
+2011-2012;27;University of Wisconsin-Madison;United States;75.8
+2011-2012;28;McGill University;Canada;75.5
+2011-2012;29;University of Texas at Austin;United States;74.9
+2011-2012;30;The University of Tokyo;Japan;74.3
+2011-2012;31;University of Illinois at Urbana-Champaign;United States;74.2
+2011-2012;32;Karolinska Institute;Sweden;73.1
+2011-2012;33;University of California, San Diego;United States;73.0
+2011-2012;34;The University of Hong Kong;Hong Kong;72.3
+2011-2012;35;University of California, Santa Barbara;United States;72.1
+2011-2012;36;University of Edinburgh;United Kingdom;72.0
+2011-2012;37;University of Melbourne;Australia;71.9
+2011-2012;38;Australian National University;Australia;71.2
+2011-2012;38;University of California, Davis;United States;71.2
+2011-2012;40;National University of Singapore (NUS);Singapore;70.9
+2011-2012;41;Washington University in St Louis;United States;70.5
+2011-2012;42;University of Minnesota;United States;70.0
+2011-2012;43;University of North Carolina at Chapel Hill;United States;69.3
+2011-2012;44;New York University (NYU);United States;69.0
+2011-2012;45;Ludwig Maximilian University of Munich;Germany;67.6
+2011-2012;46;École Polytechnique Fédérale de Lausanne;Switzerland;66.3
+2011-2012;47;London School of Economics and Political Science (LSE);United Kingdom;66.0
+2011-2012;48;University of Manchester;United Kingdom;65.7
+2011-2012;49;Brown University;United States;65.6
+2011-2012;49;Peking University;China;65.6
+2011-2012;51;Pennsylvania State University;United States;64.9
+2011-2012;52;Kyoto University;Japan;64.8
+2011-2012;53;Pohang University of Science and Technology (Postech);Republic of Korea;64.6
+2011-2012;54;Boston University;United States;64.2
+2011-2012;55;University of Southern California;United States;64.0
+2011-2012;56;King's College London;United Kingdom;63.2
+2011-2012;57;Ohio State University;United States;63.0
+2011-2012;58;University of Sydney;Australia;62.4
+2011-2012;59;École Normale Supérieure;France;62.0
+2011-2012;59;University of Pittsburgh;United States;62.0
+2011-2012;61;University of Zürich;Switzerland;61.9
+2011-2012;62;Hong Kong University of Science and Technology;Hong Kong;61.7
+2011-2012;63;École Polytechnique;France;61.5
+2011-2012;64;University of Massachusetts;United States;61.1
+2011-2012;65;McMaster University;Canada;61.0
+2011-2012;66;University of Bristol;United Kingdom;60.9
+2011-2012;67;KU Leuven;Belgium;60.8
+2011-2012;68;Utrecht University;Netherlands;60.4
+2011-2012;69;Georg-August-Universität Göttingen;Germany;60.3
+2011-2012;70;Vanderbilt University;United States;59.6
+2011-2012;71;Tsinghua University;China;59.5
+2011-2012;72;Rice University;United States;59.0
+2011-2012;73;Heidelberg University;Germany;58.7
+2011-2012;74;University of Queensland;Australia;58.6
+2011-2012;75;Emory University;United States;57.4
+2011-2012;75;Wageningen University and Research Center;Netherlands;57.4
+2011-2012;77;Tufts University;United States;57.3
+2011-2012;77;University of Colorado Boulder;United States;57.3
+2011-2012;79;Leiden University;Netherlands;57.0
+2011-2012;80;Lund University;Sweden;56.9
+2011-2012;81;Rutgers, The State University of New Jersey;United States;56.8
+2011-2012;81;University of Rochester;United States;56.8
+2011-2012;83;Durham University;United Kingdom;56.4
+2011-2012;84;Pierre and Marie Curie University;France;56.0
+2011-2012;85;University of St Andrews;United Kingdom;55.7
+2011-2012;86;University of California, Irvine;United States;55.4
+2011-2012;87;Uppsala University;Sweden;55.2
+2011-2012;88;Technical University of Munich;Germany;55.1
+2011-2012;89;University of Notre Dame;United States;55.0
+2011-2012;90;Dartmouth College;United States;54.9
+2011-2012;91;University of Helsinki;Finland;54.8
+2011-2012;92;University of Amsterdam;Netherlands;54.7
+2011-2012;93;Case Western Reserve University;United States;54.6
+2011-2012;94;Korea Advanced Institute of Science and Technology (KAIST);Republic of Korea;54.5
+2011-2012;94;University of Maryland, College Park;United States;54.5
+2011-2012;96;Michigan State University;United States;54.4
+2011-2012;97;University of Arizona;United States;54.2
+2011-2012;98;Purdue University;United States;54.0
+2011-2012;99;University of Sussex;United Kingdom;53.9
+2011-2012;100;University of Alberta;Canada;53.7
+2011-2012;101;University of Sheffield;United Kingdom;53.6
+2011-2012;102;University of Glasgow;United Kingdom;53.4
+2011-2012;103;University of Cape Town;South Africa;53.2
+2011-2012;104;Delft University of Technology;Netherlands;53.1
+2011-2012;104;University of Montreal;Canada;53.1
+2011-2012;106;Ghent University;Belgium;53.0
+2011-2012;107;Royal Holloway, University of London;United Kingdom;52.9
+2011-2012;108;Tokyo Institute of Technology;Japan;52.8
+2011-2012;109;Humboldt University of Berlin;Germany;52.6
+2011-2012;110;University of California, Santa Cruz;United States;52.5
+2011-2012;111;Universität Basel;Switzerland;52.2
+2011-2012;112;University of Bern;Switzerland;52.1
+2011-2012;113;University of Utah;United States;51.9
+2011-2012;114;Stony Brook University;United States;51.4
+2011-2012;115;Eindhoven University of Technology;Netherlands;51.3
+2011-2012;116;Université de Lausanne;Switzerland;51.2
+2011-2012;117;Monash University;Australia;51.1
+2011-2012;117;Trinity College Dublin;Republic of Ireland;51.1
+2011-2012;119;Osaka University;Japan;51.0
+2011-2012;120;Tohoku University;Japan;50.8
+2011-2012;121;Hebrew University of Jerusalem;Israel;50.4
+2011-2012;121;University of York;United Kingdom;50.4
+2011-2012;123;Indiana University;United States;50.2
+2011-2012;124;Seoul National University;Republic of Korea;50.1
+2011-2012;125;Aarhus University;Denmark;50.0
+2011-2012;125;University of Florida;United States;50.0
+2011-2012;127;Arizona State University;United States;49.9
+2011-2012;127;Queen Mary University of London;United Kingdom;49.9
+2011-2012;127;University of Southampton;United Kingdom;49.9
+2011-2012;130;University of Geneva;Switzerland;49.8
+2011-2012;131;Lancaster University;United Kingdom;49.7
+2011-2012;131;Stockholm University;Sweden;49.7
+2011-2012;133;University of Leeds;United Kingdom;49.5
+2011-2012;134;University of Groningen;Netherlands;49.2
+2011-2012;135;George Washington University;United States;49.0
+2011-2012;135;University of Copenhagen;Denmark;49.0
+2011-2012;135;University of Virginia;United States;49.0
+2011-2012;138;Georgetown University;United States;48.0
+2011-2012;139;University of Vienna;Austria;47.9
+2011-2012;140;University of Nottingham;United Kingdom;47.7
+2011-2012;141;École Normale Supérieure de Lyon;France;47.6
+2011-2012;141;University of Iowa;United States;47.6
+2011-2012;143;University of California, Riverside;United States;47.5
+2011-2012;144;Rensselaer Polytechnic Institute;United States;47.4
+2011-2012;145;University of East Anglia;United Kingdom;47.3
+2011-2012;146;Newcastle University;United Kingdom;47.0
+2011-2012;146;William & Mary;United States;47.0
+2011-2012;148;University of Birmingham;United Kingdom;46.9
+2011-2012;149;Birkbeck, University of London;United Kingdom;46.8
+2011-2012;150;Brandeis University;United States;46.7
+2011-2012;151;Chinese University of Hong Kong;Hong Kong;46.6
+2011-2012;151;Free University of Berlin;Germany;46.6
+2011-2012;151;University of Aberdeen;United Kingdom;46.6
+2011-2012;154;National Taiwan University;Taiwan;46.2
+2011-2012;154;Yeshiva University;United States;46.2
+2011-2012;156;University of Exeter;United Kingdom;46.1
+2011-2012;157;Erasmus University Rotterdam;Netherlands;46.0
+2011-2012;157;University of Warwick;United Kingdom;46.0
+2011-2012;159;Radboud University;Netherlands;45.9
+2011-2012;159;University College Dublin;Republic of Ireland;45.9
+2011-2012;159;VU University Amsterdam;Netherlands;45.9
+2011-2012;162;Medical University of South Carolina;United States;45.8
+2011-2012;162;Wake Forest University;United States;45.8
+2011-2012;164;Texas A&M University;United States;45.7
+2011-2012;164;University of Reading;United Kingdom;45.7
+2011-2012;166;Tel Aviv University;Israel;45.4
+2011-2012;167;University of Illinois at Chicago;United States;45.2
+2011-2012;168;RWTH Aachen University;Germany;45.1
+2011-2012;169;Nanyang Technological University;Singapore;45.0
+2011-2012;169;Paris Diderot University - Paris 7;France;45.0
+2011-2012;169;Université Catholique de Louvain;Belgium;45.0
+2011-2012;172;University of Miami;United States;44.8
+2011-2012;173;Queen's University;Canada;44.6
+2011-2012;173;University of Auckland;New Zealand;44.6
+2011-2012;173;University of New South Wales;Australia;44.6
+2011-2012;176;University of Dundee;United Kingdom;44.5
+2011-2012;177;University of Victoria;Canada;44.2
+2011-2012;178;Technical University of Denmark;Denmark;44.1
+2011-2012;178;University of São Paulo;Brazil;44.1
+2011-2012;180;University of Delaware;United States;43.8
+2011-2012;181;Johann Wolfgang Goethe-Universität Frankfurt am Main;Germany;43.6
+2011-2012;181;University of Liverpool;United Kingdom;43.6
+2011-2012;181;University of Oslo;Norway;43.6
+2011-2012;184;Iowa State University;United States;43.4
+2011-2012;185;University of Ottawa;Canada;43.2
+2011-2012;186;Pompeu Fabra University;Spain;43.1
+2011-2012;187;Eberhard Karls Universität Tübingen;Germany;43.0
+2011-2012;187;KTH Royal Institute of Technology;Sweden;43.0
+2011-2012;189;Albert-Ludwigs-Universität Freiburg;Germany;42.9
+2011-2012;189;University of Western Australia;Australia;42.9
+2011-2012;191;University of Bergen;Norway;42.8
+2011-2012;192;University of Science and Technology of China;China;42.7
+2011-2012;193;City University of Hong Kong;Hong Kong;42.6
+2011-2012;194;University of Konstanz;Germany;42.5
+2011-2012;195;Boston College;United States;42.4
+2011-2012;196;Karlsruhe Institute of Technology;Germany;41.6
+2011-2012;197;Georgia Health Sciences University;United States;41.5
+2011-2012;197;Maastricht University;Netherlands;41.5
+2011-2012;197;University of Leicester;United Kingdom;41.5
+2011-2012;200;University of Twente;Netherlands;41.4
+2012-2013;1;California Institute of Technology (Caltech);United States;95.5
+2012-2013;2;Stanford University;United States;93.7
+2012-2013;2;University of Oxford;United Kingdom;93.7
+2012-2013;4;Harvard University;United States;93.6
+2012-2013;5;Massachusetts Institute of Technology (MIT);United States;93.1
+2012-2013;6;Princeton University;United States;92.7
+2012-2013;7;University of Cambridge;United Kingdom;92.6
+2012-2013;8;Imperial College London;United Kingdom;90.6
+2012-2013;9;University of California, Berkeley;United States;90.5
+2012-2013;10;University of Chicago;United States;90.4
+2012-2013;11;Yale University;United States;89.2
+2012-2013;12;ETH Zürich – Swiss Federal Institute of Technology Zürich;Switzerland;87.8
+2012-2013;13;University of California, Los Angeles (UCLA);United States;87.7
+2012-2013;14;Columbia University;United States;87.0
+2012-2013;15;University of Pennsylvania;United States;86.6
+2012-2013;16;Johns Hopkins University;United States;85.6
+2012-2013;17;University College London (UCL);United Kingdom;85.5
+2012-2013;18;Cornell University;United States;83.3
+2012-2013;19;Northwestern University;United States;83.1
+2012-2013;20;University of Michigan;United States;82.6
+2012-2013;21;University of Toronto;Canada;82.2
+2012-2013;22;Carnegie Mellon University;United States;81.5
+2012-2013;23;Duke University;United States;81.2
+2012-2013;24;University of Washington;United States;79.9
+2012-2013;25;Georgia Institute of Technology (Georgia Tech);United States;78.8
+2012-2013;25;University of Texas at Austin;United States;78.8
+2012-2013;27;The University of Tokyo;Japan;78.3
+2012-2013;28;University of Melbourne;Australia;77.9
+2012-2013;29;National University of Singapore (NUS);Singapore;77.5
+2012-2013;30;University of British Columbia;Canada;77.3
+2012-2013;31;University of Wisconsin-Madison;United States;76.9
+2012-2013;32;University of Edinburgh;United Kingdom;76.1
+2012-2013;33;University of Illinois at Urbana-Champaign;United States;75.8
+2012-2013;34;McGill University;Canada;75.7
+2012-2013;35;The University of Hong Kong;Hong Kong;75.6
+2012-2013;35;University of California, Santa Barbara;United States;75.6
+2012-2013;37;Australian National University;Australia;75.4
+2012-2013;38;University of California, San Diego;United States;75.2
+2012-2013;39;London School of Economics and Political Science (LSE);United Kingdom;73.1
+2012-2013;40;École Polytechnique Fédérale de Lausanne;Switzerland;73.0
+2012-2013;41;New York University (NYU);United States;72.8
+2012-2013;42;Karolinska Institute;Sweden;72.4
+2012-2013;42;University of North Carolina at Chapel Hill;United States;72.4
+2012-2013;44;University of California, Davis;United States;71.8
+2012-2013;44;Washington University in St Louis;United States;71.8
+2012-2013;46;Peking University;China;70.7
+2012-2013;47;University of Minnesota;United States;70.5
+2012-2013;48;Ludwig Maximilian University of Munich;Germany;70.4
+2012-2013;49;University of Manchester;United Kingdom;70.1
+2012-2013;50;Pohang University of Science and Technology (Postech);Republic of Korea;69.4
+2012-2013;51;Brown University;United States;68.9
+2012-2013;52;Tsinghua University;China;67.1
+2012-2013;53;Ohio State University;United States;67.0
+2012-2013;54;Boston University;United States;66.8
+2012-2013;54;Kyoto University;Japan;66.8
+2012-2013;56;University of Southern California;United States;66.3
+2012-2013;57;King's College London;United Kingdom;66.2
+2012-2013;58;KU Leuven;Belgium;66.1
+2012-2013;59;École Normale Supérieure;France;65.9
+2012-2013;59;Seoul National University;Republic of Korea;65.9
+2012-2013;61;Pennsylvania State University;United States;65.8
+2012-2013;62;École Polytechnique;France;65.7
+2012-2013;62;University of Sydney;Australia;65.7
+2012-2013;64;Leiden University;Netherlands;65.1
+2012-2013;65;Hong Kong University of Science and Technology;Hong Kong;64.4
+2012-2013;65;University of Queensland;Australia;64.4
+2012-2013;67;Utrecht University;Netherlands;64.1
+2012-2013;68;Korea Advanced Institute of Science and Technology (KAIST);Republic of Korea;64.0
+2012-2013;69;Purdue University;United States;63.8
+2012-2013;70;Georg-August-Universität Göttingen;Germany;63.2
+2012-2013;70;Wageningen University and Research Center;Netherlands;63.2
+2012-2013;72;Erasmus University Rotterdam;Netherlands;62.9
+2012-2013;72;University of Massachusetts;United States;62.9
+2012-2013;74;University of Bristol;United Kingdom;62.5
+2012-2013;75;Rice University;United States;62.0
+2012-2013;76;University of Pittsburgh;United States;61.7
+2012-2013;77;Delft University of Technology;Netherlands;61.6
+2012-2013;78;Heidelberg University;Germany;61.4
+2012-2013;79;Emory University;United States;61.3
+2012-2013;80;Durham University;United Kingdom;60.7
+2012-2013;81;Pierre and Marie Curie University;France;60.5
+2012-2013;82;Lund University;Sweden;60.3
+2012-2013;83;University of Amsterdam;Netherlands;60.1
+2012-2013;84;University of Montreal;Canada;59.8
+2012-2013;85;University of New South Wales;Australia;59.6
+2012-2013;86;Nanyang Technological University;Singapore;59.4
+2012-2013;87;Tufts University;United States;59.1
+2012-2013;88;McMaster University;Canada;59.0
+2012-2013;89;University of Groningen;Netherlands;58.8
+2012-2013;89;University of Zürich;Switzerland;58.8
+2012-2013;91;University of Colorado Boulder;United States;58.7
+2012-2013;92;Paris-Sud University;France;58.6
+2012-2013;93;Ghent University;Belgium;58.4
+2012-2013;94;Michigan State University;United States;58.3
+2012-2013;94;University of Notre Dame;United States;58.3
+2012-2013;96;University of California, Irvine;United States;58.2
+2012-2013;97;University of Maryland, College Park;United States;57.9
+2012-2013;98;University of Arizona;United States;57.7
+2012-2013;99;Humboldt University of Berlin;Germany;57.5
+2012-2013;99;Monash University;Australia;57.5
+2012-2013;99;Rutgers, The State University of New Jersey;United States;57.5
+2012-2013;102;University of Rochester;United States;57.2
+2012-2013;103;University of York;United Kingdom;57.1
+2012-2013;104;Case Western Reserve University;United States;56.9
+2012-2013;105;Technical University of Munich;Germany;56.8
+2012-2013;106;Uppsala University;Sweden;56.6
+2012-2013;106;Vanderbilt University;United States;56.6
+2012-2013;108;University of St Andrews;United Kingdom;56.5
+2012-2013;109;University of Helsinki;Finland;56.4
+2012-2013;110;Trinity College Dublin;Republic of Ireland;56.2
+2012-2013;110;University of Sheffield;United Kingdom;56.2
+2012-2013;110;University of Sussex;United Kingdom;56.2
+2012-2013;113;University of Cape Town;South Africa;55.8
+2012-2013;114;Eindhoven University of Technology;Netherlands;55.6
+2012-2013;115;Maastricht University;Netherlands;55.5
+2012-2013;116;Aarhus University;Denmark;55.3
+2012-2013;117;Stockholm University;Sweden;55.2
+2012-2013;118;University of Virginia;United States;55.0
+2012-2013;119;Royal Holloway, University of London;United Kingdom;54.9
+2012-2013;120;University of Nottingham;United Kingdom;54.8
+2012-2013;121;University of Alberta;Canada;54.7
+2012-2013;122;University of California, Santa Cruz;United States;54.5
+2012-2013;122;University of Florida;United States;54.5
+2012-2013;124;Chinese University of Hong Kong;Hong Kong;54.4
+2012-2013;124;Dartmouth College;United States;54.4
+2012-2013;124;University of Warwick;United Kingdom;54.4
+2012-2013;127;Radboud University;Netherlands;54.0
+2012-2013;128;Free University of Berlin;Germany;53.7
+2012-2013;128;Tokyo Institute of Technology;Japan;53.7
+2012-2013;130;Université de Lausanne;Switzerland;53.6
+2012-2013;130;University of Copenhagen;Denmark;53.6
+2012-2013;130;University of Southampton;United Kingdom;53.6
+2012-2013;133;University of Geneva;Switzerland;53.5
+2012-2013;134;Indiana University;United States;53.2
+2012-2013;134;National Taiwan University;Taiwan;53.2
+2012-2013;134;University of Utah;United States;53.2
+2012-2013;137;Hebrew University of Jerusalem;Israel;53.1
+2012-2013;137;Tohoku University;Japan;53.1
+2012-2013;139;University of Glasgow;United Kingdom;53.0
+2012-2013;140;KTH Royal Institute of Technology;Sweden;52.9
+2012-2013;140;VU University Amsterdam;Netherlands;52.9
+2012-2013;142;Universität Basel;Switzerland;52.8
+2012-2013;142;University of Leeds;United Kingdom;52.8
+2012-2013;144;Albert-Ludwigs-Universität Freiburg;Germany;52.3
+2012-2013;145;Lancaster University;United Kingdom;52.1
+2012-2013;145;Queen Mary University of London;United Kingdom;52.1
+2012-2013;147;Osaka University;Japan;52.0
+2012-2013;148;Arizona State University;United States;51.9
+2012-2013;149;Technical University of Denmark;Denmark;51.7
+2012-2013;150;Boston College;United States;51.6
+2012-2013;151;Karlsruhe Institute of Technology;Germany;51.5
+2012-2013;151;University of Bern;Switzerland;51.5
+2012-2013;153;University of Exeter;United Kingdom;51.3
+2012-2013;154;RWTH Aachen University;Germany;51.1
+2012-2013;154;University of California, Riverside;United States;51.1
+2012-2013;156;Texas A&M University;United States;50.9
+2012-2013;156;Yeshiva University;United States;50.9
+2012-2013;158;Tel Aviv University;Israel;50.5
+2012-2013;158;University of Birmingham;United Kingdom;50.5
+2012-2013;158;University of São Paulo;Brazil;50.5
+2012-2013;161;University of Auckland;New Zealand;50.3
+2012-2013;162;Stony Brook University;United States;50.2
+2012-2013;162;University of Vienna;Austria;50.2
+2012-2013;164;Université Catholique de Louvain;Belgium;50.0
+2012-2013;165;University of Delaware;United States;49.7
+2012-2013;166;Paris Diderot University - Paris 7;France;49.6
+2012-2013;167;The University of Texas at Dallas;United States;49.5
+2012-2013;168;George Washington University;United States;49.4
+2012-2013;169;University of Iowa;United States;49.3
+2012-2013;170;École Normale Supérieure de Lyon;France;49.2
+2012-2013;171;Universität Bonn;Germany;49.0
+2012-2013;171;University of Liverpool;United Kingdom;49.0
+2012-2013;171;University of Ottawa;Canada;49.0
+2012-2013;174;Georgetown University;United States;48.9
+2012-2013;174;Rensselaer Polytechnic Institute;United States;48.9
+2012-2013;176;University of Aberdeen;United Kingdom;48.8
+2012-2013;176;University of Adelaide;Australia;48.8
+2012-2013;176;University of East Anglia;United Kingdom;48.8
+2012-2013;176;University of Reading;United Kingdom;48.8
+2012-2013;180;Newcastle University;United Kingdom;48.6
+2012-2013;180;Université Joseph Fourier, Grenoble;France;48.6
+2012-2013;182;City University of Hong Kong;Hong Kong;48.5
+2012-2013;183;Yonsei University;Republic of Korea;48.2
+2012-2013;184;Colorado School of Mines;United States;48.0
+2012-2013;184;University of Illinois at Chicago;United States;48.0
+2012-2013;184;William & Mary;United States;48.0
+2012-2013;187;University College Dublin;Republic of Ireland;47.9
+2012-2013;187;University of Twente;Netherlands;47.9
+2012-2013;189;Medical University of South Carolina;United States;47.7
+2012-2013;190;University of Western Australia;Australia;47.3
+2012-2013;190;Wake Forest University;United States;47.3
+2012-2013;192;University of Antwerp;Belgium;47.1
+2012-2013;193;Iowa State University;United States;46.9
+2012-2013;193;Technion Israel Institute of Technology;Israel;46.9
+2012-2013;193;University of Miami;United States;46.9
+2012-2013;196;University of Leicester;United Kingdom;46.7
+2012-2013;196;University of Victoria;Canada;46.7
+2012-2013;198;University at Buffalo;United States;46.6
+2012-2013;199;Johann Wolfgang Goethe-Universität Frankfurt am Main;Germany;46.4
+2012-2013;200;Birkbeck, University of London;United Kingdom;46.2
+2013-2014;1;California Institute of Technology (Caltech);United States;94.9
+2013-2014;2;Harvard University;United States;93.9
+2013-2014;2;University of Oxford;United Kingdom;93.9
+2013-2014;4;Stanford University;United States;93.8
+2013-2014;5;Massachusetts Institute of Technology (MIT);United States;93.0
+2013-2014;6;Princeton University;United States;92.7
+2013-2014;7;University of Cambridge;United Kingdom;92.3
+2013-2014;8;University of California, Berkeley;United States;89.8
+2013-2014;9;University of Chicago;United States;87.8
+2013-2014;10;Imperial College London;United Kingdom;87.5
+2013-2014;11;Yale University;United States;87.4
+2013-2014;12;University of California, Los Angeles (UCLA);United States;86.3
+2013-2014;13;Columbia University;United States;85.2
+2013-2014;14;ETH Zürich – Swiss Federal Institute of Technology Zürich;Switzerland;84.5
+2013-2014;15;Johns Hopkins University;United States;83.7
+2013-2014;16;University of Pennsylvania;United States;81.0
+2013-2014;17;Duke University;United States;79.3
+2013-2014;18;University of Michigan;United States;79.2
+2013-2014;19;Cornell University;United States;79.1
+2013-2014;20;University of Toronto;Canada;78.3
+2013-2014;21;University College London (UCL);United Kingdom;77.6
+2013-2014;22;Northwestern University;United States;77.1
+2013-2014;23;The University of Tokyo;Japan;76.4
+2013-2014;24;Carnegie Mellon University;United States;76.0
+2013-2014;25;University of Washington;United States;73.4
+2013-2014;26;National University of Singapore (NUS);Singapore;72.4
+2013-2014;27;University of Texas at Austin;United States;72.2
+2013-2014;28;Georgia Institute of Technology (Georgia Tech);United States;71.6
+2013-2014;29;University of Illinois at Urbana-Champaign;United States;71.4
+2013-2014;30;University of Wisconsin-Madison;United States;71.1
+2013-2014;31;University of British Columbia;Canada;70.8
+2013-2014;32;London School of Economics and Political Science (LSE);United Kingdom;69.8
+2013-2014;33;University of California, Santa Barbara;United States;68.4
+2013-2014;34;University of Melbourne;Australia;68.2
+2013-2014;35;McGill University;Canada;68.1
+2013-2014;36;Karolinska Institute;Sweden;67.8
+2013-2014;37;École Polytechnique Fédérale de Lausanne;Switzerland;67.7
+2013-2014;38;King's College London;United Kingdom;67.6
+2013-2014;39;University of Edinburgh;United Kingdom;67.5
+2013-2014;40;New York University (NYU);United States;67.4
+2013-2014;40;University of California, San Diego;United States;67.4
+2013-2014;42;Washington University in St Louis;United States;67.2
+2013-2014;43;The University of Hong Kong;Hong Kong;65.3
+2013-2014;44;Seoul National University;Republic of Korea;65.2
+2013-2014;45;Peking University;China;65.0
+2013-2014;46;University of Minnesota;United States;64.9
+2013-2014;47;University of North Carolina at Chapel Hill;United States;64.5
+2013-2014;48;Australian National University;Australia;64.4
+2013-2014;49;Pennsylvania State University;United States;64.2
+2013-2014;50;Boston University;United States;63.5
+2013-2014;50;Tsinghua University;China;63.5
+2013-2014;52;Brown University;United States;63.2
+2013-2014;52;Kyoto University;Japan;63.2
+2013-2014;52;University of California, Davis;United States;63.2
+2013-2014;55;Ludwig Maximilian University of Munich;Germany;63.1
+2013-2014;56;Korea Advanced Institute of Science and Technology (KAIST);Republic of Korea;62.9
+2013-2014;57;Hong Kong University of Science and Technology;Hong Kong;62.5
+2013-2014;58;University of Manchester;United Kingdom;62.3
+2013-2014;59;Ohio State University;United States;62.0
+2013-2014;60;Pohang University of Science and Technology (Postech);Republic of Korea;61.7
+2013-2014;61;KU Leuven;Belgium;61.3
+2013-2014;62;Purdue University;United States;60.7
+2013-2014;63;Georg-August-Universität Göttingen;Germany;59.9
+2013-2014;63;University of Queensland;Australia;59.9
+2013-2014;65;École Normale Supérieure;France;59.8
+2013-2014;65;Rice University;United States;59.8
+2013-2014;67;Leiden University;Netherlands;59.4
+2013-2014;68;Heidelberg University;Germany;59.2
+2013-2014;69;Delft University of Technology;Netherlands;59.1
+2013-2014;70;École Polytechnique;France;59.0
+2013-2014;70;University of Southern California;United States;59.0
+2013-2014;72;University of Sydney;Australia;58.8
+2013-2014;73;Erasmus University Rotterdam;Netherlands;58.1
+2013-2014;74;Universität Basel;Switzerland;57.7
+2013-2014;74;Utrecht University;Netherlands;57.7
+2013-2014;76;Nanyang Technological University;Singapore;57.2
+2013-2014;77;Wageningen University and Research Center;Netherlands;56.8
+2013-2014;78;University of Pittsburgh;United States;56.7
+2013-2014;79;University of Bristol;United Kingdom;56.3
+2013-2014;80;Durham University;United Kingdom;56.1
+2013-2014;80;Emory University;United States;56.1
+2013-2014;80;Tufts University;United States;56.1
+2013-2014;83;Michigan State University;United States;55.9
+2013-2014;83;University of Amsterdam;Netherlands;55.9
+2013-2014;85;Ghent University;Belgium;55.5
+2013-2014;86;Free University of Berlin;Germany;55.3
+2013-2014;87;Technical University of Munich;Germany;55.2
+2013-2014;88;Case Western Reserve University;United States;55.0
+2013-2014;88;Vanderbilt University;United States;55.0
+2013-2014;90;University of Notre Dame;United States;54.7
+2013-2014;91;Monash University;Australia;54.6
+2013-2014;92;McMaster University;Canada;54.5
+2013-2014;93;University of California, Irvine;United States;54.1
+2013-2014;94;Humboldt University of Berlin;Germany;53.8
+2013-2014;95;University of Rochester;United States;53.6
+2013-2014;96;Pierre and Marie Curie University;France;53.5
+2013-2014;97;University of Colorado Boulder;United States;53.4
+2013-2014;98;Maastricht University;Netherlands;52.9
+2013-2014;98;University of Groningen;Netherlands;52.9
+2013-2014;100;University of Helsinki;Finland;52.6
+2013-2014;100;University of York;United Kingdom;52.6
+2013-2014;102;Royal Holloway, University of London;United Kingdom;52.5
+2013-2014;103;Rutgers, The State University of New Jersey;United States;52.4
+2013-2014;103;Stockholm University;Sweden;52.4
+2013-2014;103;University of Arizona;United States;52.4
+2013-2014;106;Eindhoven University of Technology;Netherlands;52.3
+2013-2014;106;University of Montreal;Canada;52.3
+2013-2014;108;University of Maryland, College Park;United States;52.2
+2013-2014;109;Chinese University of Hong Kong;Hong Kong;52.0
+2013-2014;109;University of Alberta;Canada;52.0
+2013-2014;111;Uppsala University;Sweden;51.9
+2013-2014;112;University of Sheffield;United Kingdom;51.8
+2013-2014;112;University of Virginia;United States;51.8
+2013-2014;114;Paris-Sud University;France;51.7
+2013-2014;114;Queen Mary University of London;United Kingdom;51.7
+2013-2014;114;University of New South Wales;Australia;51.7
+2013-2014;117;KTH Royal Institute of Technology;Sweden;51.6
+2013-2014;117;Technical University of Denmark;Denmark;51.6
+2013-2014;117;University of Glasgow;United Kingdom;51.6
+2013-2014;117;University of St Andrews;United Kingdom;51.6
+2013-2014;121;University of Sussex;United Kingdom;51.2
+2013-2014;121;University of Zürich;Switzerland;51.2
+2013-2014;123;Lund University;Sweden;51.1
+2013-2014;124;University of Geneva;Switzerland;51.0
+2013-2014;125;Tokyo Institute of Technology;Japan;50.8
+2013-2014;126;Dartmouth College;United States;50.5
+2013-2014;126;University of Cape Town;South Africa;50.5
+2013-2014;128;University of Florida;United States;50.4
+2013-2014;129;RWTH Aachen University;Germany;50.3
+2013-2014;129;Trinity College Dublin;Republic of Ireland;50.3
+2013-2014;131;Radboud University;Netherlands;50.2
+2013-2014;132;Indiana University;United States;50.1
+2013-2014;132;Université de Lausanne;Switzerland;50.1
+2013-2014;132;University of Massachusetts;United States;50.1
+2013-2014;135;Boston College;United States;50.0
+2013-2014;136;University of California, Santa Cruz;United States;49.9
+2013-2014;137;Lancaster University;United Kingdom;49.7
+2013-2014;138;Aarhus University;Denmark;49.6
+2013-2014;139;Colorado School of Mines;United States;49.5
+2013-2014;139;University of Leeds;United Kingdom;49.5
+2013-2014;141;University of Warwick;United Kingdom;49.4
+2013-2014;142;National Taiwan University;Taiwan;49.2
+2013-2014;143;University of Utah;United States;49.1
+2013-2014;144;Osaka University;Japan;49.0
+2013-2014;144;VU University Amsterdam;Netherlands;49.0
+2013-2014;146;Arizona State University;United States;48.9
+2013-2014;146;University of Southampton;United Kingdom;48.9
+2013-2014;148;University of California, Riverside;United States;48.7
+2013-2014;148;University of Exeter;United Kingdom;48.7
+2013-2014;150;Tohoku University;Japan;48.5
+2013-2014;150;University of Copenhagen;Denmark;48.5
+2013-2014;152;Albert-Ludwigs-Universität Freiburg;Germany;48.4
+2013-2014;153;University of Birmingham;United Kingdom;48.3
+2013-2014;154;Karlsruhe Institute of Technology;Germany;48.0
+2013-2014;155;Université Joseph Fourier, Grenoble;France;47.8
+2013-2014;156;École Normale Supérieure de Lyon;France;47.5
+2013-2014;157;University of Bern;Switzerland;47.4
+2013-2014;157;University of Nottingham;United Kingdom;47.4
+2013-2014;159;Texas A&M University;United States;47.2
+2013-2014;160;Georgetown University;United States;47.0
+2013-2014;161;University College Dublin;Republic of Ireland;46.7
+2013-2014;161;University of Iowa;United States;46.7
+2013-2014;161;University of Leicester;United Kingdom;46.7
+2013-2014;164;Brandeis University;United States;46.6
+2013-2014;164;Pompeu Fabra University;Spain;46.6
+2013-2014;164;University of Antwerp;Belgium;46.6
+2013-2014;164;University of Auckland;New Zealand;46.6
+2013-2014;168;University of Western Australia;Australia;46.4
+2013-2014;169;University of Liverpool;United Kingdom;46.3
+2013-2014;170;University of Twente;Netherlands;46.2
+2013-2014;170;University of Vienna;Austria;46.2
+2013-2014;172;Université Catholique de Louvain;Belgium;46.1
+2013-2014;172;Yeshiva University;United States;46.1
+2013-2014;174;University of Delaware;United States;46.0
+2013-2014;174;University of East Anglia;United Kingdom;46.0
+2013-2014;176;Université Libre de Bruxelles;Belgium;45.9
+2013-2014;176;University at Buffalo;United States;45.9
+2013-2014;178;Paris Diderot University - Paris 7;France;45.8
+2013-2014;178;Stony Brook University;United States;45.8
+2013-2014;180;Wake Forest University;United States;45.7
+2013-2014;181;Rensselaer Polytechnic Institute;United States;45.6
+2013-2014;181;Universität Bonn;Germany;45.6
+2013-2014;183;Iowa State University;United States;45.5
+2013-2014;184;Northeastern University;United States;45.4
+2013-2014;185;University of Miami;United States;45.3
+2013-2014;185;University of Oslo;Norway;45.3
+2013-2014;185;University of Ottawa;Canada;45.3
+2013-2014;188;The University of Texas at Dallas;United States;45.2
+2013-2014;188;University of Aberdeen;United Kingdom;45.2
+2013-2014;190;Yonsei University;Republic of Korea;45.1
+2013-2014;191;Hebrew University of Jerusalem;Israel;45.0
+2013-2014;191;University of Illinois at Chicago;United States;45.0
+2013-2014;193;Mines ParisTech;France;44.9
+2013-2014;194;George Washington University;United States;44.8
+2013-2014;194;University of Reading;United Kingdom;44.8
+2013-2014;196;University of Dundee;United Kingdom;44.7
+2013-2014;197;Florida Institute of Technology;United States;44.6
+2013-2014;198;Newcastle University;United Kingdom;44.5
+2013-2014;199;Bo?aziçi University;Turkey;44.3
+2013-2014;199;Tel Aviv University;Israel;44.3
+2014-2015;1;California Institute of Technology (Caltech);United States;94.3
+2014-2015;2;Harvard University;United States;93.3
+2014-2015;3;University of Oxford;United Kingdom;93.2
+2014-2015;4;Stanford University;United States;92.9
+2014-2015;5;University of Cambridge;United Kingdom;92.0
+2014-2015;6;Massachusetts Institute of Technology (MIT);United States;91.9
+2014-2015;7;Princeton University;United States;90.9
+2014-2015;8;University of California, Berkeley;United States;89.5
+2014-2015;9;Imperial College London;United Kingdom;87.5
+2014-2015;9;Yale University;United States;87.5
+2014-2015;11;University of Chicago;United States;87.1
+2014-2015;12;University of California, Los Angeles (UCLA);United States;85.5
+2014-2015;13;ETH Zürich – Swiss Federal Institute of Technology Zürich;Switzerland;84.6
+2014-2015;14;Columbia University;United States;84.4
+2014-2015;15;Johns Hopkins University;United States;83.0
+2014-2015;16;University of Pennsylvania;United States;81.0
+2014-2015;17;University of Michigan;United States;80.9
+2014-2015;18;Duke University;United States;79.9
+2014-2015;19;Cornell University;United States;79.4
+2014-2015;20;University of Toronto;Canada;79.3
+2014-2015;21;Northwestern University;United States;79.2
+2014-2015;22;University College London (UCL);United Kingdom;78.7
+2014-2015;23;The University of Tokyo;Japan;76.1
+2014-2015;24;Carnegie Mellon University;United States;74.3
+2014-2015;25;National University of Singapore (NUS);Singapore;73.3
+2014-2015;26;University of Washington;United States;73.2
+2014-2015;27;Georgia Institute of Technology (Georgia Tech);United States;72.8
+2014-2015;28;University of Texas at Austin;United States;72.3
+2014-2015;29;Ludwig Maximilian University of Munich;Germany;71.9
+2014-2015;29;University of Illinois at Urbana-Champaign;United States;71.9
+2014-2015;29;University of Wisconsin-Madison;United States;71.9
+2014-2015;32;University of British Columbia;Canada;71.8
+2014-2015;33;University of Melbourne;Australia;71.2
+2014-2015;34;École Polytechnique Fédérale de Lausanne;Switzerland;70.9
+2014-2015;34;London School of Economics and Political Science (LSE);United Kingdom;70.9
+2014-2015;36;University of Edinburgh;United Kingdom;70.4
+2014-2015;37;University of California, Santa Barbara;United States;70.0
+2014-2015;38;New York University (NYU);United States;69.9
+2014-2015;39;McGill University;Canada;69.6
+2014-2015;40;King's College London;United Kingdom;69.4
+2014-2015;41;University of California, San Diego;United States;68.6
+2014-2015;42;Washington University in St Louis;United States;67.8
+2014-2015;43;The University of Hong Kong;Hong Kong;67.5
+2014-2015;44;Karolinska Institute;Sweden;66.8
+2014-2015;45;Australian National University;Australia;66.5
+2014-2015;46;University of Minnesota;United States;65.9
+2014-2015;46;University of North Carolina at Chapel Hill;United States;65.9
+2014-2015;48;Peking University;China;65.2
+2014-2015;49;Tsinghua University;China;65.1
+2014-2015;50;Seoul National University;Republic of Korea;64.8
+2014-2015;51;Hong Kong University of Science and Technology;Hong Kong;64.7
+2014-2015;52;Korea Advanced Institute of Science and Technology (KAIST);Republic of Korea;64.5
+2014-2015;52;University of Manchester;United Kingdom;64.5
+2014-2015;54;Brown University;United States;64.1
+2014-2015;55;KU Leuven;Belgium;63.7
+2014-2015;55;University of California, Davis;United States;63.7
+2014-2015;57;Boston University;United States;63.6
+2014-2015;58;Pennsylvania State University;United States;62.9
+2014-2015;59;Kyoto University;Japan;62.8
+2014-2015;60;University of Sydney;Australia;62.7
+2014-2015;61;École Polytechnique;France;62.2
+2014-2015;61;Nanyang Technological University;Singapore;62.2
+2014-2015;63;Scuola Normale Superiore di Pisa;Italy;61.9
+2014-2015;64;Leiden University;Netherlands;61.3
+2014-2015;65;University of Queensland;Australia;61.2
+2014-2015;66;Pohang University of Science and Technology (Postech);Republic of Korea;61.1
+2014-2015;67;Georg-August-Universität Göttingen;Germany;61.0
+2014-2015;68;Ohio State University;United States;60.7
+2014-2015;69;Rice University;United States;59.8
+2014-2015;70;Heidelberg University;Germany;59.6
+2014-2015;71;Delft University of Technology;Netherlands;59.2
+2014-2015;72;Erasmus University Rotterdam;Netherlands;59.1
+2014-2015;73;Wageningen University and Research Center;Netherlands;59.0
+2014-2015;74;University of Bristol;United Kingdom;58.9
+2014-2015;75;Universität Basel;Switzerland;58.4
+2014-2015;75;University of Southern California;United States;58.4
+2014-2015;77;University of Amsterdam;Netherlands;58.2
+2014-2015;78;École Normale Supérieure;France;58.1
+2014-2015;79;Utrecht University;Netherlands;58.0
+2014-2015;80;Humboldt University of Berlin;Germany;57.9
+2014-2015;81;Free University of Berlin;Germany;57.6
+2014-2015;82;Michigan State University;United States;57.3
+2014-2015;83;Durham University;United Kingdom;56.9
+2014-2015;83;Monash University;Australia;56.9
+2014-2015;85;Middle East Technical University;Turkey;56.6
+2014-2015;86;University of Arizona;United States;56.5
+2014-2015;86;University of Notre Dame;United States;56.5
+2014-2015;88;Tufts University;United States;56.4
+2014-2015;88;University of California, Irvine;United States;56.4
+2014-2015;90;Ghent University;Belgium;56.2
+2014-2015;91;University of Massachusetts;United States;56.1
+2014-2015;91;University of Pittsburgh;United States;56.1
+2014-2015;93;Emory University;United States;55.5
+2014-2015;94;McMaster University;Canada;55.3
+2014-2015;94;University of Glasgow;United Kingdom;55.3
+2014-2015;96;Vanderbilt University;United States;55.2
+2014-2015;97;University of Colorado Boulder;United States;55.1
+2014-2015;98;Stockholm University;Sweden;54.6
+2014-2015;98;Technical University of Munich;Germany;54.6
+2014-2015;98;Uppsala University;Sweden;54.6
+2014-2015;101;Maastricht University;Netherlands;54.3
+2014-2015;102;Purdue University;United States;54.0
+2014-2015;103;Pierre and Marie Curie University;France;53.9
+2014-2015;103;University of Helsinki;Finland;53.9
+2014-2015;103;University of Warwick;United Kingdom;53.9
+2014-2015;103;University of Zürich;Switzerland;53.9
+2014-2015;107;Queen Mary University of London;United Kingdom;53.8
+2014-2015;107;University of Geneva;Switzerland;53.8
+2014-2015;109;University of California, Santa Cruz;United States;53.7
+2014-2015;109;University of New South Wales;Australia;53.7
+2014-2015;111;University of St Andrews;United Kingdom;53.6
+2014-2015;111;University of Sussex;United Kingdom;53.6
+2014-2015;113;Eberhard Karls Universität Tübingen;Germany;53.4
+2014-2015;113;University of Montreal;Canada;53.4
+2014-2015;113;University of York;United Kingdom;53.4
+2014-2015;116;Case Western Reserve University;United States;53.2
+2014-2015;117;University of Groningen;Netherlands;53.1
+2014-2015;118;Royal Holloway, University of London;United Kingdom;53.0
+2014-2015;119;Lund University;Sweden;52.9
+2014-2015;120;Paris-Sud University;France;52.8
+2014-2015;121;Technical University of Denmark;Denmark;52.7
+2014-2015;121;University of Rochester;United States;52.7
+2014-2015;121;University of Sheffield;United Kingdom;52.7
+2014-2015;124;University of Alberta;Canada;52.6
+2014-2015;124;University of Cape Town;South Africa;52.6
+2014-2015;126;Boston College;United States;52.5
+2014-2015;126;KTH Royal Institute of Technology;Sweden;52.5
+2014-2015;126;University of Florida;United States;52.5
+2014-2015;129;Chinese University of Hong Kong;Hong Kong;52.4
+2014-2015;130;University of Virginia;United States;52.1
+2014-2015;131;Lancaster University;United Kingdom;52.0
+2014-2015;132;University of Bern;Switzerland;51.9
+2014-2015;132;University of Maryland, College Park;United States;51.9
+2014-2015;132;University of Southampton;United Kingdom;51.9
+2014-2015;135;Technische Universität Dresden;Germany;51.6
+2014-2015;136;Université de Lausanne;Switzerland;51.4
+2014-2015;136;VU University Amsterdam;Netherlands;51.4
+2014-2015;138;Trinity College Dublin;Republic of Ireland;51.2
+2014-2015;139;Bo?aziçi University;Turkey;51.1
+2014-2015;140;Radboud University;Netherlands;51.0
+2014-2015;141;Colorado School of Mines;United States;50.9
+2014-2015;141;Texas A&M University;United States;50.9
+2014-2015;141;Tokyo Institute of Technology;Japan;50.9
+2014-2015;144;Eindhoven University of Technology;Netherlands;50.5
+2014-2015;144;Rutgers, The State University of New Jersey;United States;50.5
+2014-2015;146;University of Leeds;United Kingdom;50.4
+2014-2015;147;Brandeis University;United States;50.3
+2014-2015;148;Sungkyunkwan University (SKKU);Republic of Korea;50.2
+2014-2015;148;University of Birmingham;United Kingdom;50.2
+2014-2015;150;Indiana University;United States;50.1
+2014-2015;150;University of California, Riverside;United States;50.1
+2014-2015;152;Dartmouth College;United States;50.0
+2014-2015;153;Aarhus University;Denmark;49.9
+2014-2015;154;University of Exeter;United Kingdom;49.7
+2014-2015;155;National Taiwan University;Taiwan;49.3
+2014-2015;156;RWTH Aachen University;Germany;49.2
+2014-2015;157;Osaka University;Japan;49.1
+2014-2015;157;University of Liverpool;United Kingdom;49.1
+2014-2015;157;University of Western Australia;Australia;49.1
+2014-2015;160;École Normale Supérieure de Lyon;France;49.0
+2014-2015;160;University of Copenhagen;Denmark;49.0
+2014-2015;162;University of Utah;United States;48.6
+2014-2015;163;Albert-Ludwigs-Universität Freiburg;Germany;48.3
+2014-2015;164;University of Adelaide;Australia;48.2
+2014-2015;165;Istanbul Technical University;Turkey;48.1
+2014-2015;165;Karlsruhe Institute of Technology;Germany;48.1
+2014-2015;165;Pompeu Fabra University;Spain;48.1
+2014-2015;165;Tohoku University;Japan;48.1
+2014-2015;169;University of Miami;United States;48.0
+2014-2015;170;University of Antwerp;Belgium;47.9
+2014-2015;171;Université Catholique de Louvain;Belgium;47.8
+2014-2015;171;University of Nottingham;United Kingdom;47.8
+2014-2015;173;Georgetown University;United States;47.7
+2014-2015;173;University of Victoria;Canada;47.7
+2014-2015;175;University of Auckland;New Zealand;47.5
+2014-2015;175;University of Iowa;United States;47.5
+2014-2015;177;Syracuse University;United States;47.3
+2014-2015;178;Université Joseph Fourier, Grenoble;France;47.1
+2014-2015;178;University of Aberdeen;United Kingdom;47.1
+2014-2015;180;Paris Diderot University - Paris 7;France;47.0
+2014-2015;180;University of Delaware;United States;47.0
+2014-2015;182;Arizona State University;United States;46.9
+2014-2015;182;Sabanci University;Turkey;46.9
+2014-2015;182;University of Vienna;Austria;46.9
+2014-2015;185;Northeastern University;United States;46.8
+2014-2015;186;University of Oslo;Norway;46.7
+2014-2015;186;Yeshiva University;United States;46.7
+2014-2015;188;Stony Brook University;United States;46.6
+2014-2015;188;Tel Aviv University;Israel;46.6
+2014-2015;188;University of Ottawa;Canada;46.6
+2014-2015;191;University at Buffalo;United States;46.5
+2014-2015;192;City University of Hong Kong;Hong Kong;46.3
+2014-2015;193;Fudan University;China;46.2
+2014-2015;193;Iowa State University;United States;46.2
+2014-2015;195;Universität Bonn;Germany;46.1
+2014-2015;196;Lomonosov Moscow State University;Russian Federation;46.0
+2014-2015;196;St George's, University of London;United Kingdom;46.0
+2014-2015;198;University of East Anglia;United Kingdom;45.9
+2014-2015;199;University of Leicester;United Kingdom;45.7
+2014-2015;200;Florida Institute of Technology;United States;45.6
+2014-2015;200;George Washington University;United States;45.6
